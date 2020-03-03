@@ -2,6 +2,7 @@
 An extended nova Gravatar field 
 
  - Import the correct field
+ 
  `use Braceyourself\GravatarDefault\Gravatar;`
 
 # Set a default url image
